@@ -14,6 +14,7 @@ Version:	2.1.1
 Release:	1
 License:	BSD
 Group:		Applications
+#Source0Download: https://alioth.debian.org/project/showfiles.php?group_id=30112
 Source0:	https://alioth.debian.org/frs/download.php/3180/%{name}-%{version}.tar.bz2
 # Source0-md5:	262040198294075274418688c73c2538
 URL:		http://muscleapps.alioth.debian.org/

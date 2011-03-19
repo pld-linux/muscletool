@@ -22,6 +22,7 @@ BuildRequires:	libmusclecard-devel >= %{muscle_ver}
 BuildRequires:	pkgconfig
 BuildRequires:	readline-devel
 Requires:	libmusclecard >= %{muscle_ver}
+Obsoletes:	muscleframework-tools < 1.1.7
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
